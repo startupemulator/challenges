@@ -1,5 +1,7 @@
 # Weather Application
 
+![Good weather](https://media.istockphoto.com/photos/winter-landscape-good-weather-for-walking-sport-activitycity-park-in-picture-id1070855758?k=6&m=1070855758&s=170667a&w=0&h=UPXGsIjwIPeYnG_hHV_3p-Mx15m1ARuC_UgwAtmtkCo=)
+
 ## Как создать приложение о погоде
 
 Будем справедливы: погода имеет особое значение в жизни всего человечества.  Каждый день люди в каждом уголке нашей планеты интересуются прогнозом погоды, чтобы строить планы на завтрашний день. Все мы хотим знать, чего ожидать: дождя или снега, жары или тумана. А поскольку у нас нет дара пророчества, мы прибегаем к помощи соответствующих служб для получения актуальных погодных данных, чем и объясняется постоянный спрос на подобные программы.
@@ -21,3 +23,21 @@
 умные уведомления: быстрые оповещения об изменениях метеорологической погоды, ураганах, ураганах, землетрясениях и т.д.
 гиперлокальные прогнозы. Конечно, такую важную функцию также нельзя игнорировать. Позаботьтесь об этом при разработке погодного приложения.
 визуализации и анимации. Очевидно, что речь идет о визуализации наших прогнозов. Анимированное погодное приложение воспринимается аудиторией гораздо лучше.
+
+[feature](weather.feature)
+
+```gherkin
+Feature: weather in location
+  As a User I want to see information about weather in chosen location
+
+  Scenario: Choose location
+    Given open weather application
+    When enter name of location
+    Then show information about weather in the location
+     And show weather forecast for one week
+
+  Scenario: choose F and C
+    Given open weather application
+    When switch between F and C
+    Then information about temperature in current location in chosen format
+```
