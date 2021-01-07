@@ -49,8 +49,8 @@ https://corporate.foreca.com/en/
 
 # Подборка бесплатных UX дизайнов 
 
-- Weather app - Concept (Figma) by [Petr Bílek] (https://www.uplabs.com/posts/weather-app-concept-figma)
-- Weather app by [Irfan kurniawan] (https://www.uplabs.com/posts/weather-app-41e4b691-f2f0-4d3f-80e1-7ad883d29603)
+- Weather app - Concept (Figma) by [Petr Bílek](https://www.uplabs.com/posts/weather-app-concept-figma)
+- Weather app by [Irfan kurniawan](https://www.uplabs.com/posts/weather-app-41e4b691-f2f0-4d3f-80e1-7ad883d29603)
 
 # Для вдохновения: интересные и красивые приложения о прогнозе погоды 
 
