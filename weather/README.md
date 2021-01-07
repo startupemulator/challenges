@@ -51,6 +51,12 @@ https://corporate.foreca.com/en/
 
 - Weather app - Concept (Figma) by [Petr Bílek](https://www.uplabs.com/posts/weather-app-concept-figma)
 - Weather app by [Irfan kurniawan](https://www.uplabs.com/posts/weather-app-41e4b691-f2f0-4d3f-80e1-7ad883d29603)
+- Weather App Freebie by [Raman Yv](https://www.uplabs.com/posts/weather-app-freebie)
+- Weather App Challenge by [Uniso](https://www.uplabs.com/posts/weather-app-challenge-c44f2d71-4b54-4d69-9c4c-af6c8e9bf160)
+- Weather App - UI/UX/Interaction Design by [UX Talk](https://www.uplabs.com/uxtalk)
+- Weather App by [Moataz Mustapha](https://www.uplabs.com/moatazmustapha)
+- Minimal Weather App by [Taher Vohra](https://www.uplabs.com/posts/minimal-weather-app-e3f9a17d-e93a-448d-bb5d-68358376a67e)
+- Weather App Concept by [Alver Hothasi](https://www.uplabs.com/posts/weather-app-concept-2a0bffaa-9b9b-4c55-a0e4-8b96dc3cb73c)
 
 # Для вдохновения: интересные и красивые приложения о прогнозе погоды 
 
