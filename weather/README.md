@@ -57,6 +57,9 @@ https://corporate.foreca.com/en/
 - Weather App by [Moataz Mustapha](https://www.uplabs.com/moatazmustapha)
 - Minimal Weather App by [Taher Vohra](https://www.uplabs.com/posts/minimal-weather-app-e3f9a17d-e93a-448d-bb5d-68358376a67e)
 - Weather App Concept by [Alver Hothasi](https://www.uplabs.com/posts/weather-app-concept-2a0bffaa-9b9b-4c55-a0e4-8b96dc3cb73c)
+<p align="center">
+ <img src="photo_2021-01-08_02-00-44.jpg" width="200"/>
+</p>
 
 # Для вдохновения: интересные и красивые приложения о прогнозе погоды 
 
