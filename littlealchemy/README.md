@@ -34,7 +34,10 @@ Little Alchemy - это простая, но в то же время креат�
 - можно перетаскивать элементы на поле из списка.
 
 [Рецепты](receipts.txt)
-
+<p align="center">
+ <img src="screenshot-littlealchemy.com-2021.01.12-20_48_10.png" width="600"/>
+ <img src="screenshot-littlealchemy2.com-2021.01.12-20_47_14.png" width="600"/>
+ </p>
 <p align="center">
  <img src="photo_2021-01-12 18.35.38.jpeg" width="200"/>
  <img src="photo_2021-01-12 18.35.40.jpeg" width="200"/>
