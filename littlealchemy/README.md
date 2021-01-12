@@ -42,13 +42,12 @@ Little Alchemy - это простая, но в то же время креат�
  <img src="screenshot-littlealchemy2.com-2021.01.12-20_47_14.png" />
  </p>
 <p align="center">
- <img src="photo_2021-01-12 18.35.38.jpeg" width="200"/>
- <img src="photo_2021-01-12 18.35.40.jpeg" width="200"/>
- <img src="photo_2021-01-12 18.35.41.jpeg" width="200"/>
- <img src="photo_2021-01-12 18.35.42.jpeg" width="200"/>
- <img src="photo_2021-01-12 18.35.43.jpeg" width="200"/>
- <img src="photo_2021-01-12 18.35.44.jpeg" width="200"/>
- <img src="photo_2021-01-12 18.35.49.jpeg" width="200"/>
+ <img src="photo_2021-01-12 18.35.38.jpeg" width="300"/>
+ <img src="photo_2021-01-12 18.35.40.jpeg" width="300"/>
+ <img src="photo_2021-01-12 18.35.41.jpeg" width="300"/>
+ <img src="photo_2021-01-12 18.35.42.jpeg" width="300"/>
+ <img src="photo_2021-01-12 18.35.43.jpeg" width="300"/>
+ <img src="photo_2021-01-12 18.35.44.jpeg" width="300"/>
 
 </p>
 
