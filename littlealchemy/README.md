@@ -51,3 +51,4 @@ Little Alchemy - это простая, но в то же время креат�
 
 - [18 игр, как Alchemy](https://ru.trend-top.com/18-games-like-alxemy)
 - [Игра Little Alchemy](https://littlealchemy.com/)
+- [How to make Darth Vader in Little Alchemy](https://www.youtube.com/watch?v=wxy3AmbcoRA&ab_channel=GambleDude)
