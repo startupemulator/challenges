@@ -25,7 +25,7 @@ Bin2Dec позволяет пользователю вводить строки 
 
 ## Полезные ссылки: 
 
-[Binary number](https://en.m.wikipedia.org/wiki/Binary_number)
+[Binary number](https://ru.m.wikipedia.org/wiki/Двоичная_система_счисления)
 
 ## Примеры проектов:
 
