@@ -41,4 +41,5 @@ Bin2Dec позволяет пользователю вводить строки 
 
 [Matrix-like Binary to Decimal converter using Angular](https://github.com/ZangiefWins/MatrixBin2Dec)
 
-## Про автора - https://www.florin-pop.com/
+
+[Про автора](https://www.florin-pop.com/)
