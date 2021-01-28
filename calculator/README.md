@@ -28,13 +28,12 @@
 
 ## Полезные ссылки и ресурсы
 
-Калькулятор (Википедия) https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80
+[Калькулятор (Википедия)](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80)
 
 ## Примеры проектов
 
-BHMBS - JS-Neumorphic-Calculator
-Javascript iOS Style Calculator
-Javascript Calculator
-React Calculator
-Javascript-CALC
-Sample Calculator
+[BHMBS - JS-Neumorphic-Calculator](https://barhouum7.github.io/JS-Neumorphic-Calc.github.io/)
+[Javascript iOS Style Calculator](https://codepen.io/ssmkhrj/full/jOWBQqO)
+[Javascript Calculator](https://codepen.io/giana/pen/GJMBEv)
+[React Calculator](https://codepen.io/mjijackson/pen/xOzyGX)
+[Javascript-CALC](https://github.com/x0uter/javascript-calc)
