@@ -30,6 +30,11 @@
 
 [Калькулятор (Википедия)](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80)
 
+## Design
+
+[Design for calculator](https://dribbble.com/shots/9631225--Design-for-DailyUi-Day004-Calculator)
+[UI for calculator](https://dribbble.com/shots/11296741-DailyUI-OO4-Calculator)
+
 ## Примеры проектов
 
 [BHMBS - JS-Neumorphic-Calculator](https://barhouum7.github.io/JS-Neumorphic-Calc.github.io/)
