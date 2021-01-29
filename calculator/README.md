@@ -33,6 +33,7 @@
 ## Design
 
 [Design for calculator](https://dribbble.com/shots/9631225--Design-for-DailyUi-Day004-Calculator)
+
 [UI for calculator](https://dribbble.com/shots/11296741-DailyUI-OO4-Calculator)
 
 ## Примеры проектов
