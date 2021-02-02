@@ -9,8 +9,7 @@
 The Pomodoro Technique was developed in the late 1980s by then university student **Francesco Cirillo**. Cirillo was struggling to focus on his studies and complete assignments. Feeling overwhelmed, he asked himself to commit to just 10 minutes of focused study time. Encouraged by the challenge, he found a tomato (pomodoro in Italian) shaped kitchen timer, and the Pomodoro technique was born.
 
 ## User Stories
-- User can see a timer for 25 minutes - the working session.
-- User can Start timer and focus on the task for 25 minutes.
+- User can Start timer and focus on the task for 25 minutes - it is a working session.
 - User can take a break for 5 minutes when the alarm ring.
 - User can start / pause, stop and reset the timers.
 
