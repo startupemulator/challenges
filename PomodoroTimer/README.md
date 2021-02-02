@@ -27,7 +27,6 @@ The Pomodoro Technique was developed in the late 1980s by then university studen
 
 ## Example projects
 
-- [Joe Weaver's example](https://codepen.io/JoeCodesStuff/pen/bLbbxK)
 - [FreeCodeCamp Pomodoro Clock example](https://codepen.io/freeCodeCamp/full/XpKrrW)
 - [A pomodoro app for your menubar/tray by Amit Merchant](https://github.com/amitmerchant1990/pomolectron/blob/91e651612337fb11c46e5d2bd2bdc0feaad24289/README.md)
 - [Pomodoro Timer Online - Pomofocus](https://pomofocus.io/)
