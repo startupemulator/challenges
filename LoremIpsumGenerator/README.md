@@ -15,6 +15,7 @@ Lorem Ipsum - это просто манекен-текст, используе�
 ## Полезные ссылки
 
 [lorem-ipsum npm package](https://www.npmjs.com/package/lorem-ipsum)
+
 [lorem-ipsum CDN](https://www.jsdelivr.com/package/npm/lorem-ipsum)
 
 ## Примеры проектов
