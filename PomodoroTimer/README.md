@@ -34,4 +34,5 @@ The Pomodoro Technique was developed in the late 1980s by then university studen
 - [Pomodoro Timer Online - Pomofocus](https://pomofocus.io/)
 - [Pomodoro Clock by Jay Karlsven](https://codepen.io/JayV30/pen/ZWEqLQ)
 - [Build a Pomodoro Clock (FreeCodeCamp Zipline) Moleyo](https://codepen.io/Moleyo/pen/JdypaP)
+- [Joe Weaver's example](https://codepen.io/JoeCodesStuff/pen/bLbbxK)
 - [Build a Pomodoro Clock (video)](https://www.youtube.com/watch?v=5rz6XbrCqt0&ab_channel=FlorinPop)
