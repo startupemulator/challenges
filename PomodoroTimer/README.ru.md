@@ -23,3 +23,16 @@
 - После завершения четырех сеансов фокусировки Пользователь может сделать более длительный перерыв (15-30 минут).
 
 ## Полезные ссылки
+
+[The Pomodoro Technique® Book by Francesco Crillo](https://francescocirillo.com/products/the-pomodoro-technique)
+[9 Best Pomodoro Apps to Increase Productivity in 2021](https://geekbot.com/blog/best-pomodoro-apps/#pomotodo)
+
+## Примеры проектов
+
+[Pomodoro Clock example](https://codepen.io/freeCodeCamp/full/XpKrrW)
+[A pomodoro app for your menubar/tray by Amit Merchant](https://github.com/amitmerchant1990/pomolectron/blob/91e651612337fb11c46e5d2bd2bdc0feaad24289/README.md)
+[Pomodoro Timer Online - Pomofocus](https://pomofocus.io/)
+[Pomodoro Clock by Jay Karlsven](https://codepen.io/JayV30/pen/ZWEqLQ)
+[Joe Weaver's example](https://codepen.io/JoeCodesStuff/pen/bLbbxK)
+[Build a Pomodoro Clock (FreeCodeCamp Zipline) Moleyo](https://codepen.io/Moleyo/pen/JdypaP)
+[Conquering freeCodeCamp - Build a Pomodoro Clock (video)](https://www.youtube.com/watch?v=5rz6XbrCqt0&ab_channel=FlorinPop)
