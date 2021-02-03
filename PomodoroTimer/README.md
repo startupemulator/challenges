@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
->Level - Begginer
+> Level -  :green_circle: :green_circle: :white_circle: :white_circle: :white_circle:
 
 **The Pomodoro Technique** is a popular time management method asks you to alternate pomodoros – focused work sessions – with frequent short breaks to promote sustained concentration and stave off mental fatigue.
 
