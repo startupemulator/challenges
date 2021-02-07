@@ -9,6 +9,17 @@
 
 ## Rules 
 
+The objective of this activity is to match pairs of items. Each item can be text, an image, or audio. The user identifies the matching pair by clicking on the two items that form it.
+
+There are several ways to adjust the difficulty level of the activity:
+
+Set a time limit.
+Change the number of mistakes the user can make.
+Make the cards face up or face down.
+You are also able to adjust the size of the cards to accommodate the number of matches in the activity.
+
+Some common uses for this activity are matching antonyms or synonyms or matching a painting with the artist.
+
 Any deck of playing cards may be used, although there are also commercial sets of cards with images. The rules given here are for a standard deck of cards, which are normally laid face down.
 
 In turn, each player chooses two cards and turns them face up. If they are of the same rank and color then that player wins the pair and plays again. If they are not of the same rank and color, they are turned face down again and play passes to the player on the left.
