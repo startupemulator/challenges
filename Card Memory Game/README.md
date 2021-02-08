@@ -32,9 +32,13 @@ Memory is a card game designed for two people, although single player modes are 
 - Many of these may be played in combination with one another:
 
 *Any Color*: A version especially good for young children where matching pairs need only be of the same rank, not the same color. When playing with jokers, these count double because they are more difficult to match.
+
 *One Flip*: Players who make a successful pair win these cards but do not go again until their next turn.
-*Zebra*: Pairs may only be formed by cards of the same rank, but opposite in color (so 7 of diamonds would match with a 7 of clubs or spades, but not a 7 of hearts)
+
+*Zebra*: Pairs may only be formed by cards of the same rank, but opposite in color (so 7 of diamonds would match with a 7 of clubs or spades, but not a 7 of hearts).
+
 *Two Decks*: For a much longer game, shuffle together two 52-card decks and lay them out in 8 rows of 13 cards (9 rows of 12 cards if using jokers). Pairs must be identical (same rank and same suit, so the 10 of clubs would have to match the other 10 of clubs).
+
 *Two Decks Duel*: Duel is a two-player game where the playing field is divided into two separate parts. Each player shuffle a full 52-card deck and lay it out in 4 rows of 13 cards. The players cannot access each other's cards. Player one starts, flipping one card face-up, then player two selects one card from his/her own side. If the pair is a match, cards are removed, if not, they are flipped back. Pairs must be identical (same rank and same suit, so the 10 of clubs would have to match the other 10 of clubs). After every turn roles are exchanged, in this case: player two flips a card and player one answers.
 
 - Concentration is not limited to playing cards. Many versions of the game that are designed for children may have different themes. In some computer versions, the cards may randomly move to increase the difficulty.
