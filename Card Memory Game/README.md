@@ -9,7 +9,10 @@
 
 ## The Rules
 
-Memory is a card game designed for two people, although single player modes are available. Cards are laid out in a grid face down, and players take turns flipping pairs of cards over. On each turn, the player will first turn one card over, then a second. If the two cards match, the player scores one point, the two cards are removed from the game, and the player gets another turn. If they do not match, the cards are turned back over.
+The game begins by showing a set of cards. They are face up (respectively, face down). When you click on any one, an image opens for a few seconds.
+
+The player's task is to find all the cards with the same picture. If after opening the first card you turn over the second and the pictures match, both cards remain open. If they do not, the cards are closed again. The goal is to open all of them.
+
 
 ## User Stories
 
@@ -49,6 +52,7 @@ Memory is a card game designed for two people, although single player modes are 
 - [Concentration](https://www.gamestolearnenglish.com/concentration/) 
 
 ## Game development 
+- [Xiomara7/Memory](https://github.com/Xiomara7/Memory)
 - [Flip - card memory game by Codrin Pavel](https://codepen.io/zerospree/pen/bNWbvW)
 - [Memory Game by Ric](https://codepen.io/riclab/pen/rzyVWO)
 - [Memory Game Fall/Out Edition by Foxy Stoat](https://codepen.io/FoxyStoat/pen/erzLMG)
