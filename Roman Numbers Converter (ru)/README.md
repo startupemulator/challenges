@@ -15,7 +15,7 @@ Roman Numbers Converter
 :small_orange_diamond:Символ C может быть помещен перед символами D и M: CD представляет число 400 (500-100), CM представляет число 900 (1000-100).
 
 ## Основные римские числа
-1 = I
+|1 = I
 2 = II
 3 = III
 4 = IV
@@ -24,7 +24,7 @@ Roman Numbers Converter
 7 = VII
 8 = VIII
 9 = IX
-10 = X
+10 = X|
 20 = XX
 30 = XXX
 40 = XL
