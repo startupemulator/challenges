@@ -1,26 +1,26 @@
-Roman to Decimal numbers Converter
+Roman Numbers Converter
 
-> Level: 
+> Level -  :green_circle: :green_circle: :white_circle: :white_circle: :white_circle:
 
-The numeric system represented by Roman numerals originated in ancient Rome and remained the usual way of writing numbers throughout Europe well into the Late Middle Ages. Roman numerals, as used today, employ seven symbols, each with a fixed integer value.
+**Roman numerals** are a system of numerical notations used by the Romans. They are an additive (and subtractive) system in which letters are used to denote certain "base" numbers, and arbitrary numbers are then denoted using combinations of symbols. 
 
 See the below table the Symbol - Value pairs:
 
 SYMBOL       VALUE
  
-  I            1
-  IV           4
-  V            5
-  IX           9
-  X            10
-  XL           40
-  L            50
-  XC           90
-  C            100
-  CD           400
-  D            500
-  CM           900 
-  M            1000
+:small_orange_diamond:  I            1
+:small_orange_diamond:  IV           4
+:small_orange_diamond:  V            5
+:small_orange_diamond:  IX           9
+:small_orange_diamond:  X            10
+:small_orange_diamond:  XL           40
+:small_orange_diamond:  L            50
+:small_orange_diamond:  XC           90
+:small_orange_diamond:  C            100
+:small_orange_diamond:  CD           400
+:small_orange_diamond:  D            500
+:small_orange_diamond:  CM           900 
+:small_orange_diamond:  M            1000
 
 A number in Roman Numerals is a string of these symbols written in descending order(e.g. M’s first, followed by D’s, etc.). However, in a few specific cases, to avoid four characters being repeated in succession(such as IIII or XXXX), subtractive notation is often used as follows: 
 
