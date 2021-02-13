@@ -15,58 +15,53 @@ Roman Numbers Converter
 :small_orange_diamond:Символ C может быть помещен перед символами D и M: CD представляет число 400 (500-100), CM представляет число 900 (1000-100).
 
 ## Основные римские числа
-|1 = I
-2 = II
-3 = III
-4 = IV
-5 = V
-6 = VI
-7 = VII
-8 = VIII
-9 = IX
-10 = X|
-20 = XX
-30 = XXX
-40 = XL
-50 = L
-60 = LX
-70 = LXX
-80 = LXXX
-90 = XC 100 = C
-200 = CC
-300 = CCC
-400 = CD
-500 = D
-600 = DC
-700 = DCC
-800 = DCCC
-900 = CM
-1 000 = M
-2 000 = MM
-3 000 = MMM
-4 000 = MV
-5 000 = V
-6 000 = VM
-7 000 = VMM
-8 000 = VMMM
-9 000 = MX 10 000 = X
-20 000 = XX
-30 000 = XXX
-40 000 = XL
-50 000 = L
-60 000 = LX
-70 000 = LXX
-80 000 = LXXX
-90 000 = XC
-100 000 = C
-200 000 = CC
-300 000 = CCC
-400 000 = CD
-500 000 = D
-600 000 = DC
-700 000 = DCC
-800 000 = DCCC
-900 000 = CM
-1 000 000 = M
 
-[Конвертер римских чисел онлайн](http://graecolatini.bsu.by/htm-different/num-converter-roman.htm)
+:small_orange_diamond:  I             1
+
+:small_orange_diamond:  IV            4
+
+:small_orange_diamond:  V             5
+
+:small_orange_diamond:  IX            9
+
+:small_orange_diamond:  X             10
+
+:small_orange_diamond:  XL            40
+
+:small_orange_diamond:  L             50
+
+:small_orange_diamond:  XC            90
+
+:small_orange_diamond:  C             100
+
+:small_orange_diamond:  CD            400
+
+:small_orange_diamond:  D             500
+
+:small_orange_diamond:  CM            900 
+
+:small_orange_diamond:  M            1000
+
+## User Stories 
+
+- Пользователь должен иметь возможность ввести один римский номер в поле ввода
+- Пользователь может видеть результаты в одном поле вывода, содержащем десятичный (базовый 10) эквивалент введенного римского числа, нажатием кнопки
+- В случае ввода неверного символа пользователь должен увидеть ошибку
+
+## Bonus features
+
+ - Пользователь может видеть преобразование, которое должно быть сделано автоматически при вводе типа "I".
+ - Пользователь должен иметь возможность конвертировать из десятичной в римскую (наоборот).
+ 
+ ## Useful links 
+
+- [Большая таблица Римских цифр от 1 до 1000](https://kvn201.com.ua/table-of-roman-numerals-from-1-to-1000.htm)
+- [Римские цифры](https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B8%D0%B5_%D1%86%D0%B8%D1%84%D1%80%D1%8B)
+- [Roman Numerals](https://www.mathsisfun.com/roman-numerals.html)
+- [Roman numeral mathematics](https://www.britannica.com/topic/Roman-numeral)
+
+## Example projects
+
+- [Конвертер римских чисел онлайн](http://graecolatini.bsu.by/htm-different/num-converter-roman.htm)
+- [Roman Numerals Converter](https://www.rapidtables.com/convert/number/roman-numerals-converter.html)
+- [Roman Numeral Converter](https://www.calculatorsoup.com/calculators/conversions/roman-numeral-converter.php)
