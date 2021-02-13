@@ -4,10 +4,8 @@ Roman Numbers Converter
 
 **Roman numerals** are a system of numerical notations used by the Romans. They are an additive (and subtractive) system in which letters are used to denote certain "base" numbers, and arbitrary numbers are then denoted using combinations of symbols. 
 
-See the below table the Symbol - Value pairs:
+**The Symbol - Value pairs:
 
-SYMBOL       VALUE
- 
 :small_orange_diamond:  I             1
 
 :small_orange_diamond:  IV            4
