@@ -9,7 +9,9 @@ See the below table the Symbol - Value pairs:
 SYMBOL       VALUE
  
 :small_orange_diamond:  I            1
+
 :small_orange_diamond:  IV           4
+
 :small_orange_diamond:  V            5
 :small_orange_diamond:  IX           9
 :small_orange_diamond:  X            10
