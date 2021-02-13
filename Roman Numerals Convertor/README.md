@@ -51,6 +51,8 @@ Useful links and resources
 
 Example projects
 
-Try not to view this until you've developed your own solution:
+[Roman Numerals](https://www.mathsisfun.com/roman-numerals.html)
+
+[Roman numeral mathematics](https://www.britannica.com/topic/Roman-numeral)
 
 [Roman Number Converter](https://www.calculatorsoup.com/calculators/conversions/roman-numeral-converter.php)
