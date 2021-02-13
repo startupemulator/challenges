@@ -8,20 +8,30 @@ See the below table the Symbol - Value pairs:
 
 SYMBOL       VALUE
  
-:small_orange_diamond:  I            1
+:small_orange_diamond:  I             1
 
 :small_orange_diamond:  IV           4
 
 :small_orange_diamond:  V            5
+
 :small_orange_diamond:  IX           9
+
 :small_orange_diamond:  X            10
+
 :small_orange_diamond:  XL           40
+
 :small_orange_diamond:  L            50
+
 :small_orange_diamond:  XC           90
+
 :small_orange_diamond:  C            100
+
 :small_orange_diamond:  CD           400
+
 :small_orange_diamond:  D            500
+
 :small_orange_diamond:  CM           900 
+
 :small_orange_diamond:  M            1000
 
 A number in Roman Numerals is a string of these symbols written in descending order(e.g. M’s first, followed by D’s, etc.). However, in a few specific cases, to avoid four characters being repeated in succession(such as IIII or XXXX), subtractive notation is often used as follows: 
