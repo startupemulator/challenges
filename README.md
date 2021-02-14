@@ -1,16 +1,24 @@
 <p align="center">
-<img src="se-logo-1.png"/>
+ <img src="se-logo-1.png"/>
 </p>
+https://startupemulator.com/
 
 # StartupEmulator Challenges
 
 The list of challenges for participate in software development
 
-## The list
 
- - [Weather Application](/weather)
- - [Little Alchemy Game](/littlealchemy)
- - [Bin to Dec](/Bin2Dec)
- - [Card Memory Game](/Card%20Memory%20Game)
- - [Emoji Translator](/Emoji%20Translator)
- - [Roman Numbers Converter](/Roman%20Numbers%20Converter)
+| Complexity Level | Challenge     | 
+| ---------------- |:-------------:|
+| 🟢🟢⚪️⚪️⚪️      | [Calculator](/calculator)    |
+| 🟢🟢⚪️⚪️⚪️      | [Lorem Ipsum Generator](/LoremIpsumGenerator)    |
+| 🟢🟢⚪️⚪️⚪️      | [Emoji Translator](/Emoji%20Translator)    | 
+| 🟢🟢⚪️⚪️⚪️      | [Roman Numbers Converter](/Roman%20Numbers%20Converter)     | 
+| 🟢🟢⚪️⚪️⚪️      | [Bin to Dec](/Bin2Dec)    |
+| 🟢🟢⚪️⚪️⚪️      | [Pomodoro Timer](/PomodoroTimer)    |
+| 🟢🟢🟢⚪️⚪️      | [Weather Application](/weather)     | 
+| 🟢🟢🟢⚪️⚪️      | [Card Memory Game](/Card%20Memory%20Game)     | 
+| 🟢🟢🟢🟢⚪️      | [Little Alchemy Game](/littlealchemy)    |
+
+
+Follow us in telegram - https://t.me/startupemulator
