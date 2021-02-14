@@ -1,7 +1,6 @@
 <p align="center">
  <img src="se-logo-1.png"/>
 </p>
-https://startupemulator.com/
 
 # StartupEmulator Challenges
 
