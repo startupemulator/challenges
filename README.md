@@ -1,4 +1,9 @@
+<p align="center">
+<img src="se-logo-1.png"/>
+</p>
+
 # StartupEmulator Challenges
+
 The list of challenges for participate in software development
 
 ## The list
