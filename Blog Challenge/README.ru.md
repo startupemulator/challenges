@@ -29,7 +29,9 @@
 
 Данная структура идеально подходит для иллюстрирования типичного макета веб-сайта. У некоторых веб-сайтов больше колонок, некоторые — более сложные, но идею Вы поняли.
 
-> [document_and_website_structure by learning-area](https://github.com/mdn/learning-area/tree/master/html/introduction-to-html/document_and_website_structure)
+> [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+> [CSS](https://developer.mozilla.org/ru/docs/Словарь/CSS)
+> [Архитектура данных](https://developer.mozilla.org/ru/docs/Словарь/Information_architecture)
 
 
 ## User Stories
