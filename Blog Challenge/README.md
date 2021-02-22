@@ -33,6 +33,5 @@ A blog is an online journal or informational website displaying information in r
 - [How to build a blogging engine using Node.js and TypeScript](https://morioh.com/p/7e22904a2c39)
 
 ## Useful links
-What is a Blog? – Definition of Terms Blog, Blogging, and Blogger
 
-https://firstsiteguide.com/what-is-blog/
+[What is a Blog? – Definition of Terms Blog, Blogging, and Blogger](https://firstsiteguide.com/what-is-blog/)
