@@ -1,5 +1,8 @@
 # Blog Challenge
 
+
+> Level -  :green_circle: :green_circle: :green_circle: :green_circle: :white_circle:
+
 Блог — это интернет-сайт для регулярной публикации различного контента:
 - текста;
 - инфографики;
