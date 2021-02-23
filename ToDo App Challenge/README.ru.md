@@ -24,6 +24,10 @@
 
 ## Example projects
 
+https://youtu.be/W7FaYfuwu70
+
+(https://github.com/kevin-powell/todo-list-collab/tree/master/javascript-finished)
+
 [Создаем Todo приложение c помощью Django. Часть 1](https://habr.com/ru/company/otus/blog/488748/)
 
 ## Useful links
