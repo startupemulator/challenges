@@ -28,5 +28,6 @@
 
 ## Useful links
 
+[The 9 best to do list apps of 2021](https://zapier.com/blog/best-todo-list-apps/)
 [10 современных планировщиков задач](https://itc.ua/articles/10-sovremennyh-planirovshhikov-zadach/)
 [40 ToDo приложений, способных изменить вашу жизнь](https://books-mindmap.livejournal.com/9881.html)
