@@ -12,8 +12,6 @@ Your application might look something like this: [Brutask](https://app.brutask.c
 
 ## User Stories
 
-In this version of the ToDo list, the user will be getting four options:
-
 - The user can register.
 - The user can add new ToDo items by entering text in the input box.
 - By pressing the Enter key, the user adds a new item to the list.
