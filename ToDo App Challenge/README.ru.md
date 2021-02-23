@@ -6,7 +6,7 @@
 
 > ToDo приложение - это инструмент управления задачами, созданный для повышения производительности и качества работы в небольших командах с помощью списка дел.
 
-Выглядеть ваше приложение может примерно так: [Brutask](https://app.brutask.com/3VvTJktsB1XSloI325wo)
+Выглядеть ваше приложение может примерно так: [Brutask](https://dribbble.com/shots/14838083-Brutask-landing-Page)
 
 ![brutask](https://github.com/startupemulator/challenges/blob/main/ToDo%20App%20Challenge/brutask.png)
 
