@@ -24,9 +24,15 @@
 
 ## Example projects
 
+https://youtu.be/b8sUhU_eq3g
+
+https://youtu.be/E1E08i2UJGI
+
 https://youtu.be/W7FaYfuwu70
 
 (https://github.com/kevin-powell/todo-list-collab/tree/master/javascript-finished)
+
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning
 
 [Создаем Todo приложение c помощью Django. Часть 1](https://habr.com/ru/company/otus/blog/488748/)
 
