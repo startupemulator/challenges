@@ -8,7 +8,6 @@
 
 ## User Stories
 
-- The user can register.
 - The user can add new ToDo items by entering text in the input box.
 - By pressing the Enter key, the user adds a new item to the list.
 - Each of the todo items has a checkbox in front of the todo text information.
@@ -17,6 +16,7 @@
 - The user can specify the time to complete the task in the line with the task itself.
 - The application gives the user this option of removing todo items from the list: the x icon on the right to remove a single todo item from the list.
 - The user can create his own team and add participants to it (optional).
+- The user can register.
 
 ## Example projects
 
