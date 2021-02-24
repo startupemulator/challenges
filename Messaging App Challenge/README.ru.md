@@ -49,12 +49,14 @@ Telegram	| 200 million
 
 # User Stories
 
-- Создайте ваш проект при помощи create-react-app или Next.js.
+1. Создайте ваш проект при помощи create-react-app или Next.js.
 > [NextJS и Create-React-App. В чем разница?](https://habr.com/ru/company/timeweb/blog/536758/)
-- Используйте сервис вроде Firebase или GraphQL для создания и получения сообщений в режиме реального времени.
-> [The Best Firebase Alternatives in 2021](https://blog.back4app.com/the-best-firebase-alternatives/)
-> [The 10 Best GraphQL Tools For 2021](https://graphcms.com/blog/best-graphql-tools-2021)
-- Добавьте реакции на сообщения (эмодзи), используя [npm-пакет emoji-mart](https://www.npmjs.com/package/@ctrl/ngx-emoji-mart).
-- Разверните приложение в вебе, используя [Firebase Tools](https://firebase.google.com/docs/cli).
+2. Используйте сервис вроде Firebase или GraphQL для создания и получения сообщений в режиме реального времени.
+> - [The Best Firebase Alternatives in 2021](https://blog.back4app.com/the-best-firebase-alternatives/)
+> - [The 10 Best GraphQL Tools For 2021](https://graphcms.com/blog/best-graphql-tools-2021)
+3. Добавьте реакции на сообщения (эмодзи), используя [npm-пакет emoji-mart](https://www.npmjs.com/package/@ctrl/ngx-emoji-mart).
+4. Разверните приложение в вебе, используя [Firebase Tools](https://firebase.google.com/docs/cli).
+
+# Useful links
 
 [Что нового в Node.js 15?](https://habr.com/ru/company/timeweb/blog/538782/)
