@@ -5,19 +5,6 @@
 В то время как Facebook Messenger лидирует по количеству загружаемых приложений, WhatsApp является самым популярным приложением для обмена сообщениями в мире. 
 Цифры доказывают, что доля рынка приложений для обмена сообщениями будет продолжать расти, и что еще есть место для новых приложений для обмена сообщениями.
 
-# Example projects
-
-Мессенджер  | Количество активных пользователей в месяц
-------------- | -------------
-WhatsApp   | 1.6 billion
-Facebook Messenger | 1.3 billion
-WeChat |	1 billion
-QQ Mobile	| 823 million
-Snapchat |	293 million
-Viber	| 260 million
-Discord	| 250 million
-Telegram	| 200 million
-
 # Функциональность
 
 **1. Авторизация**: вариант 1 - через социальные сети; 2 - номер телефона; 3 - электронную почту. 
@@ -57,3 +44,15 @@ Telegram	| 200 million
 3. Добавьте реакции на сообщения (эмодзи), используя [npm-пакет emoji-mart](https://www.npmjs.com/package/@ctrl/ngx-emoji-mart).
 4. Разверните приложение в вебе, используя [Firebase Tools](https://firebase.google.com/docs/cli).
 
+# Example projects
+
+Мессенджер  | Количество активных пользователей в месяц
+------------- | -------------
+WhatsApp   | 1.6 billion
+Facebook Messenger | 1.3 billion
+WeChat |	1 billion
+QQ Mobile	| 823 million
+Snapchat |	293 million
+Viber	| 260 million
+Discord	| 250 million
+Telegram	| 200 million
