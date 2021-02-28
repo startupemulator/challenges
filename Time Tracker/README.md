@@ -28,8 +28,8 @@ Time tracker is primarily used by freelancers and international collaborative pr
 
 ## Example projects
 
-[React App - Time Tracker by Kamrul Hassan](https://codepen.io/kamrulhassan/pen/WXYWEg)
-[Time Tracker by Joni Halabi](https://codepen.io/thatdevgirl/pen/wJBoJX)
+- [React App - Time Tracker by Kamrul Hassan](https://codepen.io/kamrulhassan/pen/WXYWEg)
+- [Time Tracker by Joni Halabi](https://codepen.io/thatdevgirl/pen/wJBoJX)
 
 ## Useful links
 
