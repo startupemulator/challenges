@@ -8,7 +8,7 @@ Time tracker is primarily used by freelancers and international collaborative pr
 
 ## UI prototype
 
-[TimePad Time Tracker - UI Kit](https://www.figma.com/community/file/877861267642234232?preview=fullscreen)
+[TimePad Time Tracker - UI Kit](https://www.figma.com/file/YVeTFygXjn9tEoaF8PZmb7/TimePad-Time-Tracker---UI-Kit-(Community)?node-id=0%3A1)
 
 ## User Stories
 
