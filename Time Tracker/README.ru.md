@@ -29,9 +29,7 @@
 [React App - Time Tracker by Kamrul Hassan](https://codepen.io/kamrulhassan/pen/WXYWEg)
 [Time Tracker by Joni Halabi](https://codepen.io/thatdevgirl/pen/wJBoJX)
 
-
-
-
+## Useful links
 
 [The 5 best time tracking apps of 2021](https://zapier.com/blog/best-time-tracking-apps/)
 
