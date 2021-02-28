@@ -4,28 +4,27 @@
 
 **Time Tracker** is an online tool used to keep records of work hours. It helps measure employees working time and gives an insight how much time was spent on different tasks, projects and clients.
 
-A good time tracker app comes along with additional features such as hourly wages, breaks for lunch or other personal reasons. Customer user information can also be gathered through time tracking software to help improve online traffic and profit for your business.
-
 Time tracker is primarily used by freelancers and international collaborative projects to help organize and consolidate efforts made towards completing a designated task.
+
 ## UI prototype
 
 [TimePad Time Tracker - UI Kit](https://www.figma.com/community/file/877861267642234232?preview=fullscreen)
 
 ## User Stories
 
-- Пользователь может создать задачу.
-- Пользователь может запустить часы.
-- Пользователь может остановить часы.
-- Для одной и той же задачи пользователь может еще раз нажать кнопку "Старт" и часы будут продолжать отсчет.
-- Пользователь может перезапустить часы.
-- Пользователь может создавать круги - они будут отображаться на экране
-- Пользователь может очистить все круги.
+- The user can create a task.
+- The user can start the clock.
+- The user can stop the clock.
+- The user can press the "Start" button again and the clock will continue counting for the same task.
+- The user can restart the clock.
+- The user can create circles - these will be displayed on the screen
+- The user can clear all circles.
 
 ## More features
 
-- Пользователь может редактировать отслеживаемое время или вручную добавлять блоки времени.
-- Пользователь может отслеживать ежедневное, еженедельное или ежемесячное время, потраченное на проект, на человека или на клиента. 
-- Пользователь может создавать счета или экспортировать данные. 
+- User can edit tracked time or manually add time blocks.
+- User can track daily, weekly, or monthly time spent on a project, per person, or per client. 
+- User can create invoices or export data. 
 
 ## Example projects
 
