@@ -1,6 +1,6 @@
 # Time Tracker challenge
 
-> Level: 🟢🟢🟢⚪️⚪️
+> Level: 🟢🟢🟢🟢⚪️
 
 **Time Tracker** is an online tool used to keep records of work hours. It helps measure employees working time and gives an insight how much time was spent on different tasks, projects and clients.
 
