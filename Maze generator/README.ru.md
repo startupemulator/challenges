@@ -1,6 +1,10 @@
+# Maze generator
 
+> Уровень сложности - :green_circle: :green_circle: :green_circle: :white_circle: :white_circle:
 
-http://www.mazegenerator.net/
+**Задача**: создать простой 2D генератор лабиринтов заданного размера.
+
+**Пример реализации: http://www.mazegenerator.net/**
 
 ## User Stories
 
@@ -52,17 +56,21 @@ http://www.mazegenerator.net/
 Стандартной установкой является то, что лабиринт начинается сверху и, следовательно, заканчивается снизу (или в центре, если это круглый лабиринт).
 Пользователь может изменить это так, чтобы лабиринт начинался снизу или по центру, а заканчивался сверху. 
 
-### Пользователь может использовать дополнительные настройки, такие как:
+### Bonus features
 
+Пользователь может использовать дополнительные настройки, такие как:
 - E-value - контролирует тенденцию к элитарности алгоритма генерации. Элитарный лабиринт имеет короткое решение относительно размера лабиринта, в то время как неэлитарный лабиринт имеет решение, проходящее через большую часть лабиринта.
 - R-значение - контролирует речную тенденцию генерируемого алгоритма. Лабиринт с высоким речным фактором имеет несколько, но длинных тупиков, в то время как лабиринт с низким речным фактором будет иметь много коротких тупиков.
 - Пользователь может распечатать лабиринт.
 
+## Полезные ссылки
 
 [Лабиринты: классификация, генерирование, поиск решений](https://habr.com/ru/post/445378/)
 [Maze Classification](http://www.astrolog.org/labyrnth/algrithm.htm)
 [Алгоритм создания лабиринта Алгоритм создания лабиринта - https://ru.qaz.wiki/wiki/Maze_generation_algorithm](https://ru.qaz.wiki/wiki/Maze_generation_algorithm)
 [Maze generation algorithm](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
 
-
-
+## Примеры проектов
+[Random Labyrinth Generator](http://donjon.bin.sh/fantasy/dungeon/labyrinth.cgi)
+[xefer](https://xefer.com/maze-generator)
+[Maze Puzzle](https://xefer.com/maze-generator)
