@@ -6,6 +6,8 @@
 
 **Пример реализации: http://www.mazegenerator.net/**
 
+![image](https://github.com/startupemulator/challenges/blob/main/Maze%20generator/ImageGenerator%20(3).svg)
+
 ## User Stories
 
 Пользователь может выбрать форму лабиринта. 
