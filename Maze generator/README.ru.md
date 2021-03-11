@@ -68,7 +68,7 @@
 
 - [Лабиринты: классификация, генерирование, поиск решений](https://habr.com/ru/post/445378/)
 - [Maze Classification](http://www.astrolog.org/labyrnth/algrithm.htm)
-- [Алгоритм создания лабиринта](https://ru.qaz.wiki/wiki/Maze_generation_algorithm](https://ru.qaz.wiki/wiki/Maze_generation_algorithm)
+- [Алгоритм создания лабиринта](https://ru.qaz.wiki/wiki/Maze_generation_algorithm)
 - [Maze generation algorithm](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
 
 ## Примеры проектов
