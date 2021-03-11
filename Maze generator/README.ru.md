@@ -66,13 +66,13 @@
 
 ## Полезные ссылки
 
--[Лабиринты: классификация, генерирование, поиск решений](https://habr.com/ru/post/445378/)
--[Maze Classification](http://www.astrolog.org/labyrnth/algrithm.htm)
--[Алгоритм создания лабиринта Алгоритм создания лабиринта - https://ru.qaz.wiki/wiki/Maze_generation_algorithm](https://ru.qaz.wiki/wiki/Maze_generation_algorithm)
--[Maze generation algorithm](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
+- [Лабиринты: классификация, генерирование, поиск решений](https://habr.com/ru/post/445378/)
+- [Maze Classification](http://www.astrolog.org/labyrnth/algrithm.htm)
+- [Алгоритм создания лабиринта Алгоритм создания лабиринта - https://ru.qaz.wiki/wiki/Maze_generation_algorithm](https://ru.qaz.wiki/wiki/Maze_generation_algorithm)
+- [Maze generation algorithm](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
 
 ## Примеры проектов
 
--[Random Labyrinth Generator](http://donjon.bin.sh/fantasy/dungeon/labyrinth.cgi)
--[xefer](https://xefer.com/maze-generator)
--[Maze Puzzle](https://xefer.com/maze-generator)
+- [Random Labyrinth Generator](http://donjon.bin.sh/fantasy/dungeon/labyrinth.cgi)
+- [xefer](https://xefer.com/maze-generator)
+- [Maze Puzzle](https://xefer.com/maze-generator)
