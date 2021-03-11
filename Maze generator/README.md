@@ -1,6 +1,6 @@
 # Maze generator
 
-> Difficulty level - :green_circle: :green_circle: :green_circle: :white_circle: :white_circle:
+> Tier - :green_circle: :green_circle: :green_circle: :white_circle: :white_circle:
 
 **Task**: Create a simple 2D maze generator of a given size.
 
@@ -66,7 +66,11 @@ The user can use advanced features such as:
 
 ## Useful Links
 
+- [Maze Classification](http://www.astrolog.org/labyrnth/algrithm.htm)
+- [Maze generation algorithm](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
+
 ## Project examples
 
-
-Translated with www.DeepL.com/Translator (free version)
+- [Random Labyrinth Generator](http://donjon.bin.sh/fantasy/dungeon/labyrinth.cgi)
+- [xefer](https://xefer.com/maze-generator)
+- [Maze Puzzle](https://xefer.com/maze-generator)
