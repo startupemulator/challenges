@@ -15,6 +15,14 @@ The objective of the puzzle is to move the entire stack to another rod, obeying 
 **The Number Of Moves Required:**
 Tower of Hanoi puzzle with n disks can be solved in minimum (2^n)−1 steps.
 
+# User Stories
+
+- The user can select the number of discs from 3 to 8. 
+- User can see the number of turns.
+- The user can restart the game using the Restart button.
+- The user can see the solution to the problem by pressing the Solve button.
+- User can see the minimum number of steps for different number of rods.
+
 ## Solution
 
 The puzzle can be played with any number of disks, although many toy versions have around 7 to 9 of them. The minimal number of moves required to solve a Tower of Hanoi puzzle is 2n − 1, where n is the number of disks. This is precisely the nth Mersenne number.
