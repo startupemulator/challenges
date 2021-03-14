@@ -52,11 +52,14 @@ The binary numeral system of Gray codes gives an alternative way of solving the 
 
 # Example projects
 
-[Tower of Hanoi](https://www.mathsisfun.com/games/towerofhanoi.html)
+- [Tower of Hanoi](https://www.mathsisfun.com/games/towerofhanoi.html)
+- [Towers of Hanoi - HTML5, JS and SCSS Game](https://codepen.io/eliortabeka/pen/yOrrxG)
+- [Бесплатные игры онлайн - Ханойская башня](https://ru.goobix.com/%D0%B8%D0%B3%D1%80%D1%8B-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD/%D1%85%D0%B0%D0%BD%D0%BE%D0%B9%D1%81%D0%BA%D0%B0%D1%8F-%D0%B1%D0%B0%D1%88%D0%BD%D1%8F/#)
+
+# Useful links
+
+- [Tower of Hanoi recursion game algorithm explained](https://www.hackerearth.com/blog/developers/tower-hanoi-recursion-game-algorithm-explained/)
+- [Data Structure & Algorithms - Tower of Hanoi](https://www.tutorialspoint.com/data_structures_algorithms/tower_of_hanoi.htm)
+- [Program for Tower of Hanoi](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/)
 
 
-[Tower of Hanoi recursion game algorithm explained](https://www.hackerearth.com/blog/developers/tower-hanoi-recursion-game-algorithm-explained/)
-[Program for Tower of Hanoi](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/)
-[https://www.tutorialspoint.com/data_structures_algorithms/tower_of_hanoi.htm](Data Structure & Algorithms - Tower of Hanoi)
-[Recent Progress in Heuristic Search:A Case Study of the Four-Peg Towers of Hanoi Problem](https://www.ijcai.org/Proceedings/07/Papers/374.pdf)
-[Ханойская башня](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
