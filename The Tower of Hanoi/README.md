@@ -8,9 +8,9 @@ The **The Tower of Hanoi** (also called the Tower of Brahma or Lucas' Tower and 
 
 The objective of the puzzle is to move the entire stack to another rod, obeying the following simple **rules**:
 
-1.Only one disk can be moved at a time.
-2.Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an empty rod.
-3.No disk may be placed on top of a smaller disk.
+- Only one disk can be moved at a time.
+- Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an empty rod.
+- No disk may be placed on top of a smaller disk.
 
 **The Number Of Moves Required:**
 Tower of Hanoi puzzle with n disks can be solved in minimum (2^n)−1 steps.
