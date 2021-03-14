@@ -6,6 +6,14 @@
 
 ![image](https://github.com/startupemulator/challenges/blob/main/The%20Tower%20of%20Hanoi/tower_of_hanoi_4.gif)
 
+# User Stories
+
+- Пользователь может выбрать количество дисков от 3 до 8. 
+- Пользователь может видеть количество ходов.
+- Пользователь может перезапустить игру с помощью кнопки Restart.
+- Пользователь может увидеть решение задачи, нажав кнопку Solve.
+- Пользователь видит минимальное количество шагов для разного количества стержней.
+
 ## Решение 
 
 В головоломку можно играть с любым количеством дисков, хотя во многих версиях игрушек их от 7 до 9. Минимальное количество ходов, необходимых для решения загадки Ханойской башни, составляет 2 n - 1, где n - количество дисков. Это в точности n- е число Мерсенна . 
@@ -28,18 +36,19 @@
 
 ### Решение с кодом Грея 
 
-Двоичная система счисления кодов Грея дает альтернативный способ решения головоломки. В системе Грея числа выражаются в виде двоичной комбинации нулей и единиц, но вместо стандартной позиционной системы счисления , код Грея работает при условии, что каждое значение отличается от своего предшественника только на один (и ровно на один) измененный бит. 
+Двоичная система счисления кодов Грея дает альтернативный способ решения головоломки. В системе Грея числа выражаются в виде двоичной комбинации нулей и единиц, но вместо стандартной позиционной системы счисления, код Грея работает при условии, что каждое значение отличается от своего предшественника только на один (и ровно на один) измененный бит. 
 
 # Example projects
 
-[Tower of Hanoi](https://www.mathsisfun.com/games/towerofhanoi.html)
+- [Tower of Hanoi](https://www.mathsisfun.com/games/towerofhanoi.html)
+- [Towers of Hanoi - HTML5, JS and SCSS Game](https://codepen.io/eliortabeka/pen/yOrrxG)
+- [Бесплатные игры онлайн - Ханойская башня](https://ru.goobix.com/%D0%B8%D0%B3%D1%80%D1%8B-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD/%D1%85%D0%B0%D0%BD%D0%BE%D0%B9%D1%81%D0%BA%D0%B0%D1%8F-%D0%B1%D0%B0%D1%88%D0%BD%D1%8F/#)
 
+# Useful links
 
-[Tower of Hanoi recursion game algorithm explained](https://www.hackerearth.com/blog/developers/tower-hanoi-recursion-game-algorithm-explained/)
-[https://www.tutorialspoint.com/data_structures_algorithms/tower_of_hanoi.htm](Data Structure & Algorithms - Tower of Hanoi)
-[Program for Tower of Hanoi](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/)
-[Бесплатные игры онлайн - Ханойская башня](https://ru.goobix.com/%D0%B8%D0%B3%D1%80%D1%8B-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD/%D1%85%D0%B0%D0%BD%D0%BE%D0%B9%D1%81%D0%BA%D0%B0%D1%8F-%D0%B1%D0%B0%D1%88%D0%BD%D1%8F/#)
-[Рекурсия. Ханойская башня. Реализация на C++](https://www.youtube.com/watch?v=jwbF2sqKgw4&ab_channel=AlexandrSoldatkin)
-[Ханойские башни](http://synset.com/ai/ru/search/Towers_of_Hanoi.html#task0)
-
-[Ханойская башня](https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BD%D0%BE%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B0%D1%88%D0%BD%D1%8F)
+- [Tower of Hanoi recursion game algorithm explained](https://www.hackerearth.com/blog/developers/tower-hanoi-recursion-game-algorithm-explained/)
+- [Data Structure & Algorithms - Tower of Hanoi](https://www.tutorialspoint.com/data_structures_algorithms/tower_of_hanoi.htm)
+- [Program for Tower of Hanoi](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/)
+- [Рекурсия. Ханойская башня. Реализация на C++](https://www.youtube.com/watch?v=jwbF2sqKgw4&ab_channel=AlexandrSoldatkin)
+- [Ханойские башни](http://synset.com/ai/ru/search/Towers_of_Hanoi.html#task0)
+- [Ханойская башня](https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BD%D0%BE%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B0%D1%88%D0%BD%D1%8F)
