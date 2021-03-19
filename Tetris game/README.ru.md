@@ -55,6 +55,6 @@
 
 ## Useful links
 
-[PENS TAGGED tetris](https://codepen.io/tag/tetris)
-[Tetris Story](https://vadim.oversigma.com/Tetris.htm)
-[Тетрис](http://mech.math.msu.su/~shvetz/54/inf/perl-problems/chTetris.xhtml)
+- [PENS TAGGED tetris](https://codepen.io/tag/tetris)
+- [Tetris Story](https://vadim.oversigma.com/Tetris.htm)
+- [Тетрис](http://mech.math.msu.su/~shvetz/54/inf/perl-problems/chTetris.xhtml)
