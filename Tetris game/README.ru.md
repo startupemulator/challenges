@@ -11,6 +11,8 @@
 
 ![image](https://github.com/startupemulator/challenges/blob/main/Tetris%20game/7_1.png)
 
+[Пример реализации](https://www.min2win.ru/gm.php?id=8137)
+
 ## User Stories
 
 - Случайные фигурки тетрамино падают сверху в прямоугольный стакан шириной 10 и высотой 20 клеток. 
