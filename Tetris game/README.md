@@ -12,7 +12,7 @@ The figures are named after the letters they look like: I, J, L, O, S, T, Z. A t
 
 [Example](https://www.min2win.ru/games/tetris/)
 
-## User Stories.
+## User Stories
 
 - Random tetramino pieces fall from above into a rectangular beaker 10 cells wide and 20 cells high. 
 - During the fall, the player can move the pieces horizontally (within the cup) with the Left and Right keys, rotate them 90° in different directions with the Up and Down keys, and, having aimed, drop them to the bottom of the cup by pressing Space.
