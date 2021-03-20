@@ -11,7 +11,7 @@
 
 ![image](https://github.com/startupemulator/challenges/blob/main/Tetris%20game/7_1.png)
 
-[Пример реализации](https://www.min2win.ru/gm.php?id=8137)
+[Пример реализации](https://www.min2win.ru/games/tetris/)
 
 ## User Stories
 
