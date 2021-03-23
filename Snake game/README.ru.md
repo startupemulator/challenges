@@ -8,7 +8,7 @@
 
 # User Stories
 
-- Пользователь управляет телом змеи, состоящей из 3-х «частей», с клавиатуры при помощи стрелочек: ←Влево, →Вправо, ↑ВВерх, ↓Вниз. 
+- Пользователь управляет телом змеи, состоящей из 3-х «частей», с клавиатуры при помощи стрелочек: ←Влево, →Вправо, ↑Вверх, ↓Вниз. 
 - Пользователь может выбрать уровень сложности (чем больше сложность, тем больше скорость змейки и ее первоначальная длина).
 - Змейка собирает символы на экране, которые появляются случайно.
 - Змейка "разбивется" при столкновении с границей игрового поля и со своим "хвостом".
@@ -18,6 +18,7 @@
 
 # Useful links and tutorials
 
-[Урок №14. Создание игры «Змейка» на C++/Qt5](https://ravesli.com/urok-14-sozdaem-igru-zmejka-v-qt5/)
-[Snake (игра)](https://ru.wikipedia.org/wiki/Snake_(%D0%B8%D0%B3%D1%80%D0%B0))
-(https://codepen.io/tag/snake)
+- [Урок №14. Создание игры «Змейка» на C++/Qt5](https://ravesli.com/urok-14-sozdaem-igru-zmejka-v-qt5/)
+- [Snake (игра)](https://ru.wikipedia.org/wiki/Snake_(%D0%B8%D0%B3%D1%80%D0%B0)
+- PENS TAGGED snake(https://codepen.io/tag/snake)
+- [DyegoCosta/snake-game](https://github.com/DyegoCosta/snake-game)
