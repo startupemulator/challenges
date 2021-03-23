@@ -20,4 +20,4 @@
 
 - [DyegoCosta/snake-game](https://github.com/DyegoCosta/snake-game)
 - [Snake (video game genre)](https://en.wikipedia.org/wiki/Snake_(video_game_genre))
-- PENS TAGGED snake(https://codepen.io/tag/snake)
+- [PENS TAGGED snake](https://codepen.io/tag/snake)
