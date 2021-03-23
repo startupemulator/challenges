@@ -21,4 +21,3 @@
 - [Урок №14. Создание игры «Змейка» на C++/Qt5](https://ravesli.com/urok-14-sozdaem-igru-zmejka-v-qt5/)
 - [PENS TAGGED snake](https://codepen.io/tag/snake)
 - [DyegoCosta/snake-game](https://github.com/DyegoCosta/snake-game)
-- [Snake](https://ru.wikipedia.org/wiki/Snake_(%D0%B8%D0%B3%D1%80%D0%B0)
