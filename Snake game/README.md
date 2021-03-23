@@ -21,3 +21,4 @@
 - [DyegoCosta/snake-game](https://github.com/DyegoCosta/snake-game)
 - [Snake (video game genre)](https://en.wikipedia.org/wiki/Snake_(video_game_genre))
 - [PENS TAGGED snake](https://codepen.io/tag/snake)
+- [Snake Game With Rust, JavaScript, and WebAssembly | Part 2](https://medium.com/swlh/snake-game-with-rust-javascript-and-webassembly-part-2-9d729b87c186)
