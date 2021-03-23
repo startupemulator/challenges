@@ -4,7 +4,7 @@
 
 **Snake** is a computer game that first appeared on the Nokia 6110 button phone. It was developed by the Finnish developer Taneli Armanto and released by Nokia. In this game, the player controls a thin snake-like creature that moves around the playing field without stopping. The goal is to eat as many apples as possible that appear during the game. Each time the snake eats an apple, it becomes longer, making it harder to continue playing the game. The snake must avoid collisions with walls and its own body.
 
-**[Implementation example]**(https://rodrilima.github.io/js-snake-game/)
+**[Implementation example](https://rodrilima.github.io/js-snake-game/)**
 
 # User Stories
 
