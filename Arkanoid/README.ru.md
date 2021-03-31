@@ -36,3 +36,5 @@ Arkanoid — видеоигра для игровых автоматов, раз
 - [Крошечный арканоид на JavaScript (30 строк кода)](https://habr.com/ru/post/202530/)
 - [Цветной арканоид на JavaScript](https://thecode.media/arcanoid/)
 - [Улучшаем арканоид](https://thecode.media/ark/)
+- [Arkanoid by Wkeeling](https://github.com/wkeeling/arkanoid)
+- [Create an Arkanoid Game with TypeScript - Tutorial](https://www.youtube.com/watch?v=7bejSTim38A&ab_channel=freeCodeCamp.org)
