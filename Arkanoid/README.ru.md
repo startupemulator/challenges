@@ -1,5 +1,7 @@
 # Arkanoid
 
+> Level -  :green_circle: :green_circle: :green_circle: :green_circle: :white_circle:
+
 Arkanoid — видеоигра для игровых автоматов, разработанная компанией Taito в 1986 году. 
 
 ## User Stories
