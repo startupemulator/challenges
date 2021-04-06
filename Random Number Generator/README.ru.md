@@ -21,5 +21,6 @@
 
 ## Example projects
 
-- Example (https://alonjoshua.github.io/random-number-generator/)
-- Project (https://github.com/AlonJoshua/random-number-generator/)
+- [Генератор случаных чисел](https://castlots.org/generator-sluchajnyh-chisel/)
+- [Example](https://alonjoshua.github.io/random-number-generator/)
+- [Project](https://github.com/AlonJoshua/random-number-generator/)
