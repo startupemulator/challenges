@@ -1,6 +1,6 @@
 # Random Number Generator
 
-> Tier - :green_circle: :green_circle: :green_circle: :white_circle: :white_circle:
+> Tier - :green_circle: :green_circle: :white_circle: :white_circle: :white_circle:
 
 **Task**: Generate a random number between a range of defined minimun and maximun. 
 
