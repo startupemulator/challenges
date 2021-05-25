@@ -42,3 +42,5 @@ etc...
 [Яндекс время](https://yandex.by/time/)
 
 [WorldClock library for JavaScript. Uses JQuery](https://embed.plnkr.co/plunk/Q7e26n)
+
+[The World Clock — Worldwide](https://www.timeanddate.com/worldclock/)
