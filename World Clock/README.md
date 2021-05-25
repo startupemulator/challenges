@@ -2,13 +2,13 @@
 
 ## > Level: 🟢🟢🟢⚪️⚪️
 
-What time is it? For us, it is time to write a new challenge. 
+![image](https://github.com/startupemulator/challenges/blob/main/World%20Clock/solartimevsstandardtime.png)
 
 A world clock is a clock which displays the time for various cities around the world. The clock face can incorporate multiple round analogue clocks with moving hands or multiple digital clocks with numeric readouts, with each clock being labelled with the name of a major city or time zone in the world.
 
 ## User Stories
 
-- User can add the location's name to the search box on the webpage and enter the city for which he need to know the time.
+- The user can enter in the search field the city for which he wants to know the time.
 - User can select the correct city and add them to favorite locations link.
 
 ## Bonus features
