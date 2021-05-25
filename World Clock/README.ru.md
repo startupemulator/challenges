@@ -4,7 +4,7 @@
 
 What time is it? For us, it is time to write a new challenge. 
 
- User can add a timezone to the search box on the webpage and enter the city for which he need to know the time.
+ User can add the location's name to the search box on the webpage and enter the city for which he need to know the time.
  User can select the correct city and add them to favorite locations link.
  User can ... third user story
  User can ... fourth user story
