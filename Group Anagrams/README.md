@@ -17,3 +17,4 @@ Two strings are anagrams if and only if their character counts (respective numbe
 - [Given a sequence of words, print all anagrams together | Set 1](https://www.geeksforgeeks.org/given-a-sequence-of-words-print-all-anagrams-together/)
 - [Given a sequence of words, print all anagrams together | Set 2](https://www.geeksforgeeks.org/given-a-sequence-of-words-print-all-anagrams-together-set-2/?ref=lbp)
 - [Given a sequence of words, print all anagrams together using STL](https://www.geeksforgeeks.org/given-a-sequence-of-words-print-all-anagrams-together-using-stl/?ref=lbp)
+- [Wordsmith.org: the magic of words](https://wordsmith.org/anagram/)
