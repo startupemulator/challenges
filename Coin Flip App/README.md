@@ -1,5 +1,5 @@
 
-# Coin Flip App eng 
+# Coin Flip App
 
 Flipping a coin may not be the fairest way to settle disputes. About a decade ago, statistician Persi Diaconis started to wonder if the outcome of a coin flip really is just a matter of chance. He had Harvard University engineers build him a mechanical coin flipper. Diaconis, now at Stanford University, found that if a coin is launched exactly the same way, it lands exactly the same way.
 
