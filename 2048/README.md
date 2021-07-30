@@ -1,27 +1,27 @@
 
 # 2048 game
 
-[2048— браузерная игра](https://play2048.co), написанная 19-летним итальянским разработчиком Габриэле Чирулли на JavaScript. 
+[2048-browser game](https://play2048.co), written by 19-year-old Italian developer Gabriele Cirulli in JavaScript. 
 
-Код игры открыт и выложен на странице разработчика в [GitHub](https://github.com/gabrielecirulli/2048).
+The game code is open and posted on the developer's page on [GitHub](https://github.com/gabrielecirulli/2048).
 
-Игра «2048» была написана менее чем за два дня в качестве упражнения в программировании; Чирулли посчитал своё творение «случайным вторжением в игровую индустрию» и не планирует в дальнейшем заниматься разработкой игр. 
+The game "2048" was written in less than two days as an exercise in programming; Cirulli considered his creation an "accidental intrusion into the game industry" and has no plans to pursue further game development. 
 
-Прообразом «2048» является коммерческая игра Threes; её создатели остались недовольными успехом «2048» и назвали игру Чирулли «испорченным плагиатом». 
+The prototype of "2048" is the commercial game Threes; its creators were dissatisfied with the success of "2048" and called Cirulli's game "a tainted plagiarism. 
 
-## Правила игры	
+## Rules of the game	
 
-- Игровое поле имеет форму квадрата 4x4. 
-- *Целью игры* является получение плитки номинала «2048» (при желании можно продолжить дальше). 
-- В каждом раунде появляется плитка номинала «2» (с вероятностью 90 %) или «4» (с вероятностью 10 %).
-- Нажатием стрелки игрок может скинуть все плитки игрового поля в одну из 4 сторон. 
-- Если при сбрасывании две плитки одного номинала «налетают» одна на другую, то они превращаются в одну, номинал которой равен сумме соединившихся плиток. 
-- После каждого хода на свободной секции поля появляется новая плитка номиналом «2» или «4». 
-- Если при нажатии кнопки местоположение плиток или их номинал не изменится, то ход не совершается.
-- Если в одной строчке или в одном столбце находится более двух плиток одного номинала, то при сбрасывании они начинают соединяться с той стороны, в которую были направлены. - Например, находящиеся в одной строке плитки (4, 4, 4) после хода влево превратятся в (8, 4), а после хода вправо — в (4, 8). 
-- Данная обработка неоднозначности позволяет более точно формировать стратегию игры.
-- За каждое соединение игровые очки увеличиваются на номинал получившейся плитки.
-- Игра заканчивается поражением, если после очередного хода невозможно совершить действие.
+- The playing field is shaped like a 4x4 square. 
+- The *Purpose of the game* is to obtain a tile of denomination "2048" (you can continue if you wish). 
+- In each round a tile of the denomination "2" (with 90% probability) or "4" (with 10% probability) appears.
+- By pressing the arrow player can discard all tiles of the playing field to one of the 4 sides. 
+- If two tiles of the same denomination "collide" with each other, they turn into one, the denomination of which is equal to the sum of the connected tiles. 
+- After each turn a new tile with denomination "2" or "4" appears on a free section of the field. 
+- If the location of tiles or their denomination does not change when the button is pressed, then no move is made.
+- If there are more than two tiles of the same denomination in one row or in one column, they begin to connect on the side in which they were directed when resetting. - For example, tiles (4, 4, 4) in the same row will turn into (8, 4) after a move to the left, and will turn into (4, 8) after a move to the right. 
+- This treatment of ambiguity allows you to more accurately form the game strategy.
+- For each connection the game points are increased by the denomination of the resulting tile.
+- The game ends in defeat if no action can be performed after the next move.
 
 ## Useful links
 
