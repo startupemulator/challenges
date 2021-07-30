@@ -25,6 +25,8 @@
 
 ## Useful links
 
+-[Create 2048 Game with Javascript for Browser](https://erdoganbavas.medium.com/create-2048-game-with-javascript-for-browser-9d4c59a4c264).
+
 -[VSCode](https://bit.ly/VSCode-Editor).
 
 -[7 JavaScript 2048 Games](https://freefrontend.com/javascript-2048-games/).
