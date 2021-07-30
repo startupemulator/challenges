@@ -25,7 +25,11 @@
 ##Useful links
 
 -[VSCode](https://bit.ly/VSCode-Editor).
+
 -[7 JavaScript 2048 Games](https://freefrontend.com/javascript-2048-games/).
+
 -[Разработка игры на JavaScript . 2048 на JavaScript / Angular. Практика JavaScript](https://m.youtube.com/watch?v=FLRhcVqf5kA).
+
 -[Part 1. 2048 Game JS tutorial](https://m.youtube.com/watch?v=1x3agjoCbTc).
+
 -[2048 game by Cam Song / codepen](https://codepen.io/camsong/pen/wcKrg).
