@@ -51,3 +51,36 @@ The **Ferz** is the strongest piece. It combines rook and bishop moves and can m
 
 ![peshka](https://github.com/startupemulator/challenges/blob/main/Chess/1360443401_kak-bet-peshka.png)
 
+### **What is castling**
+
+Once during a game each of the kings (white or black) may castling. This is how it is done. The king moves towards one of the rooks through one square, and the rook is moved through it and becomes next to it. Here is an example of the white king castling.
+
+![rokirovka](https://github.com/startupemulator/challenges/blob/main/Chess/1360443408_rokirovka.png)
+
+Castling on the **king flank** is called **short**, on the **fersex flank it is called long**. If the king has moved even once, castling is impossible in both directions. It is also impossible to castling with a rook that has left its place. Castling is temporarily impossible if the king is under attack by an opponent's piece at that moment or if the square that the king must occupy or cross is under attack. It is also impossible to castling when there is another piece between the king and the rook with which castling is planned.
+
+![rokirovkinet](https://github.com/startupemulator/challenges/blob/main/Chess/1360443416_rokirovku-delat-nelzya.png)
+
+**Taking on Passage** - If a pawn makes a move of two squares from its original position and crosses a square that is under attack by an enemy pawn, the latter can beat the moving pawn. In this case the moving pawn is removed from the board, and beating becomes not in its place, as it happens in all other cases, but on the "beaten" field, which it jumped.Details of this strange move is shown in the figure.
+
+![vzatie](https://github.com/startupemulator/challenges/blob/main/Chess/1360443425_vzyatie-na-prohode.png)
+
+### ** Checkmate**.
+
+If any piece - queen, rook, bishop, knight, or pawn - attacks the king, this attack is called **shah**. It is imperative that you defend against the check with your next move. There are three ways to defend. You can move away with the king, destroy the attacking piece, or put your piece between it and the king. All three defenses are possible against the black rook check. White can take away the king, take the attacking rook with the bishop, or block the king with the rook.
+
+![shah](https://github.com/startupemulator/challenges/blob/main/Chess/1360443433_shah.png)
+ 
+**Mat**. If none of the check defense methods can be used (you can't take the king away, capture the attacking piece or protect the king with your piece) then the king is mated and the game ends. The game is considered won if one manages to mate the opponent's king or if the opponent surrenders himself.
+
+![mat](https://github.com/startupemulator/challenges/blob/main/Chess/1360443344_mat.png)
+
+> Chess characters are part of **Unicode**. Instead of using images, you can represent chess pieces by symbols that are defined in the Unicode character set - [Chess symbols in Unicode](https://www.wikiwand.com/en/Chess_symbols_in_Unicode)
+
+## Numerical evaluation of chess positions
+
+The point of this method is to give a numerical score (numerical weight) to each separate positional factor affecting a position, and to create an algorithm which selects the move with the maximum score. Such [factors](https://schoolchess.ru/uroki/dlya-1-razryada-i-kms/urok-35-ocenka-pozicii.html) are: material advantage, king's position, center (center possession), open lines, weak and strong squares, weakness in the pawn chain, pawn superiority (quantitative or qualitative), pawn tension, and piece activity. In order to determine an accurate assessment of position, all these factors are compared and obtained:
+
+![posizia](https://github.com/startupemulator/challenges/blob/main/Chess/ozenkaposisii.png)
+
+> Learn more about algorithms in the article ["Algorithms of Chess Programs"] (http://acm.mipt.ru/twiki/bin/view/Algorithms/ArlazarovChessAlgo).
