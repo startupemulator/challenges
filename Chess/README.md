@@ -84,3 +84,9 @@ The point of this method is to give a numerical score (numerical weight) to each
 ![posizia](https://github.com/startupemulator/challenges/blob/main/Chess/ozenkaposisii.png)
 
 > Learn more about algorithms in the article ["Algorithms of Chess Programs"] (http://acm.mipt.ru/twiki/bin/view/Algorithms/ArlazarovChessAlgo).
+
+## Useful links:
+
+- [Garbochess-JS by Glinscott](https://github.com/glinscott/Garbochess-JS)
+- [Coding Chess with TDD](https://dev.to/lukegarrigan/coding-chess-with-tdd-46j5)
+- [Chess by lhartikk](https://jsfiddle.net/lhartikk/m14epfwb/4/)
