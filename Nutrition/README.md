@@ -16,7 +16,7 @@ Nutrition apps provide tips on the nutritional value of food and help users keep
 - calorie counter (this is the main function of the food control app);
 - diet tips (this function is not mandatory, but will be useful for those who not only monitor their diet, but also want to lose weight).
 
-## General functions:
+## Common functions:
 
 - Registration / Login (Users must be able to log in to the app).
 - Social sharing (Users should be able to share their progress, such as weight loss, with friends).
