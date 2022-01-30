@@ -18,5 +18,9 @@ Nutrition apps provide tips on the nutritional value of food and help users keep
 
 ## Example:
 
-[Fat secret](https://mobile.fatsecret.com)
+- [Fat secret](https://mobile.fatsecret.com)
+- [Best Calorie Counting Apps Of 2022](https://www.forbes.com/health/body/best-calorie-counting-apps/)
 
+## Useful links
+
+- [How to Make a Nutrition or Diet App: Guide for 2022](https://topflightapps.com/ideas/diet-and-nutrition-app-development/)
