@@ -18,11 +18,10 @@
 
 В приложении должен быть встроен алгоритм, который предлагает диету на основе предыдущей истории диеты пользователя.
 
+## Ключевые особенности мобильного приложения "Диета и питание"
+([Как создать мобильное приложение «Диета и питание» - полное руководство](https://www.affde.com/ru/diet-nutrition-app-development-guide.html)
+
 ![Picture](https://github.com/startupemulator/challenges/blob/main/Nutrition/picture1.jpeg)
-
-[Как создать мобильное приложение «Диета и питание» - полное руководство](https://www.affde.com/ru/diet-nutrition-app-development-guide.html)
-
-
 
 # Примеры приложений: 
 
