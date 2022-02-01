@@ -48,4 +48,4 @@ Top features required for a Calorie Counting app development :
 # Useful links
 
 - [The Best Calorie Counter Apps of 2022](https://www.bestapp.com/best-calorie-counter-app/)
-
+- [https://github.com/startupemulator/challenges/blob/main/Calorie%20Counter/README.md](https://data-flair.training/blogs/python-project-calorie-calculator-django/)
