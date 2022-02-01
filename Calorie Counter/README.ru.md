@@ -22,3 +22,5 @@
 
 - [MotionLayout + RecyclerView = красивые анимированные списки](https://habr.com/ru/post/550846/)
 - [ТОП-9 Лучших бесплатных приложений для подсчёта калорий на Android и iOS в 2022 году](https://maryfits.ru/prilozheniya-dlya-podschyota-kaloriy)
+- [Python Project – Create a Calorie Calculator in Django](https://data-flair.training/blogs/python-project-calorie-calculator-django/)
+- [TOP 7 CALORIE TRACKING APPS AND HOW TO DEVELOP ONE](https://easternpeak.com/blog/top-7-calorie-tracking-apps-and-how-to-develop-one/) 
